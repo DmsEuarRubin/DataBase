@@ -1,0 +1,20 @@
+{
+  "name": "worldwideweb",
+  "version": "0.0.1s",
+  "description": "This is First JS Project from me!",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "DeusFoscor[Varujan]",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "ejs": "^3.1.9",
+    "exceljs": "^4.4.0",
+    "express": "^4.18.2",
+    "node-xlsx": "^0.23.0",
+    "xlsx": "^0.19.3",
+    "xlsx-populate": "^1.21.0"
+  }
+}
